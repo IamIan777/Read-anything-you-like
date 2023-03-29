@@ -13,6 +13,11 @@
   [Apache license 2.0](https://opensource.org/licenses/Apache-2.0)
   ## Description
   ![Alt text](video/Untitled_%20Mar%2028,%202023%209_01%20PM.gif)
+
+  link to webpage https://iamian777.github.io/Read-anything-you-like/
+
+  link to github https://github.com/IamIan777/Read-anything-you-like
+
   This Application generates a READme using JS and Node based off the users input.
   ## Installation
   You would clone the repo.
